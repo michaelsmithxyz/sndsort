@@ -1,0 +1,8 @@
+snd-sort
+========
+snd-sort is a simple script to organize OGG music files
+based on tags.
+
+Usage
+=====
+Run snd-sort with no arguments for help.
